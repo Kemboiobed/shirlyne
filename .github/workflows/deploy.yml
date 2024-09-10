@@ -1,0 +1,44 @@
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'  # Relance toutes les 6 heures
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Install FFmpeg
+      run: sudo apt-get install -y ffmpeg
+
+    - name: Start application with timeout
+      run: |
+        timeout 21590s npm start  # Limite l'exécution à 5h 59m 50s
+
+    - name: Save state (Optional)
+      run: |
+        ./save_state.sh
+kXwYijA=","accountSignature":"LzV5PZNOxfE7c+M4abJA301bAj02/pAXdQKqVKBaNg8/ZfG/nrLUYVmo83WR3edo7MUUON//f+Q10s4C7ABICg==","deviceSignature":"diUHJ9wTrWn2Rcf6mE8FOKrTJuhe0Hc+oLfNLTq3hZ9skRwKZm83Mt+ortlwJzsCOHOwbK7QAlGykdhleIeOiw=="},"signalIdentities":[{"identifier":{"name":"50935602110:10@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BUV5pYnqb9dYdErzVVzBObYGcH5rNbSJcc0zf5F8GIow"}}],"platform":"android","lastAccountSyncTimestamp":1725924882,"myAppStateKeyId":"AAAAANuZ"}
