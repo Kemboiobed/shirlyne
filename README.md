@@ -1,59 +1,65 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+:DRK_ST_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐃𝐑𝐊_𝐒𝐓_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
   </a>
 </p>
 
 ![DRK_ST_BUG](https://telegra.ph/file/e6a6d6fe8675c96a3bcb8.jpg)
+<p align="center">
+<a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
+<a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
+<a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+---
+
+## DEVELOPED BY 𝙎-𝙏𝞢𝞜
 
 ---
 
-## DEVELOPPE PAR S-𝙏𝞢𝞜
-
----
 ## CREATE YOUR FORK
-<a href="https://github.com/DRK-S-TEN/DRK_ST_BUG1/fork"><img title="DRK_ST_BUG1" src="https://img.shields.io/badge/FORK-DRK_ST_BUG1-red?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/DRK-S-TEN/DRK_ST_BUG1/fork">
+  <img title="DRK_ST_BUG1" src="https://img.shields.io/badge/FORK-DRK_ST_BUG1-red?color=red&style=for-the-badge&logo=stackshare">
+</a>
 
+---
 
 ### 🔐 Generate Pair Code For Session
 
-#### PAIRING SERVER 1
-<a href="https://drk-tech-1.onrender.com/">
-  <img src="https://img.shields.io/badge/Pairing%20Code%20Server%201-green?style=for-the-badge"/>
+#### PAIRING SERVER 
+<a href="https://drk-tech-1.onrender.com/" target="_blank">
+  <img alt="Pairing Code Server " src="https://img.shields.io/badge/PAIRING CODE-green?style=for-the-badge&logo=opencv&logoColor=white"/>
 </a>
 
-## PAIRING SERVER 2
-
-<a href='https://replit.com/@stennumber/DRk-SESSIONS-2?s=app' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
 ---
 
-### 📢 Deployments
+###  🐛DEPLOYMENTS👌
 
-- **Deploy to Render**  
-  <img src="https://img.shields.io/badge/Deploy%20to%20Render-blue?style=for-the-badge&logo=render"/>
-
-- **Deploy to Replit**  
-  <img src="https://img.shields.io/badge/Deploy%20to%20Replit-orange?style=for-the-badge&logo=replit"/>
-
+<div align="center">
+  <!-- Badges for deployment -->
+  <a href="https://youtu.be/AZg7UMMy6q8?si=_YyYGgUS1AL9oR-B" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Deployment" />
+  </a>
+  <a href="https://youtu.be/4b1HNuaQx54?si=CSRoq27E8nS0AeNA" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-Codespace-blue?style=for-the-badge&logo=github" alt="Codespace Deployment" />
+  </a>
+  <a href="https://youtu.be/yH2KCK0AD4I?si=F5tjgBpK4ZQO0F-x" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-Replit-blue?style=for-the-badge&logo=replit" alt="Replit Deployment" />
+  </a>
+  
 ---
 
-## ⚠️ AVERTISSEMENT ⚠️
+## ⚠️ WARNING ⚠️
 
-Je ne suis pas responsable des dégâts que ce bot peut causer. Utilisez ce bot à vos propres risques et périls. Le développement de ce bot est pour un usage éducatif uniquement. Toute utilisation malveillante est fortement déconseillée.
+I am not responsible for any damage caused by this bot. Use this bot at your own risk. It is developed for educational purposes only. Any malicious use is strictly discouraged.
 
 ---
 
 <details>
-  <summary><strong>Afficher plus</strong></summary>
+  <summary><strong>Show more</strong></summary>
 
-## 💀 DRK_ST_TECH 🤖
-INSPIRÉ DE VENOM, TOGE, ETC.
-<video src="https://telegra.ph/file/e78bd6952fd572b9d281a.mp4" controls></video>
 
 ---
 
-## Développeur 💀
+## Developer 💀
 
 <a href="https://github.com/DRK-S-TEN">
   <img src="https://github.com/DRK-S-TEN.png" width="200" height="200" alt="DRK-S-TEN"/>
@@ -62,21 +68,16 @@ INSPIRÉ DE VENOM, TOGE, ETC.
 
 ---
 
-## Contributeurs 🤝
+## Contributors 🤝
 
 <a href="https://github.com/toge012345">
   <img src="https://github.com/toge012345.png" width="200" height="200" alt="toge012345"/>
 </a>
-<p align="center"><strong>toge012345</strong></p>
-
-<a href="https://github.com/DRK-st">
-  <img src="https://github.com/DRK-st.png" width="200" height="200" alt="DRK-st"/>
-</a>
-<p align="center"><strong>DRK-st</strong></p>
+<p align="center"><strong>toge012345</strong
 
 ---
 
-## DEPLOYEMENT SUR GITHUB 
+## GitHub Deployment
 
 ```yaml
 name: Node.js CI
@@ -89,7 +90,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */6 * * *'  # Relance toutes les 6 heures
+    - cron: '0 */6 * * *'  
 
 jobs:
   build:
@@ -117,9 +118,8 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 21590s npm start  # Limite l'exécution à 5h 59m 50s
+        timeout 21590s npm start  # Limits run to 5h 59m 50s
 
     - name: Save state (Optional)
       run: |
         ./save_state.sh
-
