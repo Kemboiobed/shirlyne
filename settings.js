@@ -24,7 +24,7 @@ global.wm = "𝙎-𝙏𝞢𝞜"
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
