@@ -26,16 +26,25 @@
 
 #### PAIRING SERVER 
 <a href="https://drk-tech-1.onrender.com/" target="_blank">
-  <img alt="Pairing Code Server 2" src="https://img.shields.io/badge/PAIRING CODE-2-green?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img alt="Pairing Code Server " src="https://img.shields.io/badge/PAIRING CODE-green?style=for-the-badge&logo=opencv&logoColor=white"/>
 </a>
 
 ---
 
-### 📢 Deployments
+###  🐛DEPLOYMENTS👌
 
-#### Video Tutorial
-[Watch on YouTube](https://youtu.be/AZg7UMMy6q8?si=yUaLlnxWnNVYxc8u)
-
+<div align="center">
+  <!-- Badges for deployment -->
+  <a href="https://youtu.be/AZg7UMMy6q8?si=_YyYGgUS1AL9oR-B" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Deployment" />
+  </a>
+  <a href="https://youtu.be/4b1HNuaQx54?si=CSRoq27E8nS0AeNA" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-Codespace-blue?style=for-the-badge&logo=github" alt="Codespace Deployment" />
+  </a>
+  <a href="https://youtu.be/yH2KCK0AD4I?si=F5tjgBpK4ZQO0F-x" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-Replit-blue?style=for-the-badge&logo=replit" alt="Replit Deployment" />
+  </a>
+  
 ---
 
 ## ⚠️ WARNING ⚠️
@@ -47,9 +56,6 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 <details>
   <summary><strong>Show more</strong></summary>
 
-## 💀 DRK_ST_TECH 🤖
-Inspired by Venom, Toge, etc.
-<video src="https://telegra.ph/file/e78bd6952fd572b9d281a.mp4" controls></video>
 
 ---
 
